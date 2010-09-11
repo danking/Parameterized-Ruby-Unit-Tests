@@ -1,0 +1,9 @@
+$LOAD_PATH << '../code'
+
+require ParameterizedTestCase
+
+class ParamterizedTestCaseTest < ParameterizedTestCase
+
+  def test_
+
+end
